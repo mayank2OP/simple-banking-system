@@ -256,3 +256,27 @@ Mayank Rawat - mayankrawat460@gmail.com
 
 This project is created for educational purposes.
 
+## Screenshots
+
+### Application Interface
+
+#### Main Menu
+![Main Menu](screenshots/main-menu.png)
+
+#### Account Creation
+![Create Account](screenshots/create-account.png)
+
+#### Account Operations
+![Account Operations](screenshots/transaction.png)
+
+## Submission Information
+
+- **Course:** Advanced Programming with Java
+- **Student Name:** Mayank Rawat
+- **Repository Type:** Public
+- **Programming Language:** Java
+- **Development Environment:** Command Line (javac/java)
+- **Submission Date:** January 2025
+
+## Repository Structure
+
